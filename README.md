@@ -1,7 +1,7 @@
 # Data-Viz-Projects
 These are some of the Visualization/report projects I have done. 
 
-## Festman Hotel Bookings Report.
+## Festman Hotel Bookings Order Report.
 
 This is a dashboard designed with Power BI showing an analysis of hotel bookings. 
 Can be accessed online [Here](https://app.powerbi.com/groups/me/reports/48bf6031-31e5-4df9-ae3c-2e4575ffbc0c)
@@ -20,7 +20,7 @@ I was able to design a dashboard for Data Professionals.
 [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)did a survey on data professionals to find out their current job title, salary, 
 how happy they are with their position, salary, demography etc.. 
 and with the data gotten from that survey which you can find [here](https://lnkd.in/dm-8zitq) was able to design a dashboard on POWER BI.
-Can check it out [Here](https://www.linkedin.com/feed/update/urn:li:activity:6990250359365472256/)
+Can check it out [Here](https://app.powerbi.com/groups/me/reports/0d0ee2df-b368-4ba8-bb70-8edac127df2a/ReportSection)
 
 ## AtliQ Hardware Sales Analysis Report.
 
