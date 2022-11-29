@@ -35,3 +35,5 @@ HR in AtliQ Hardware wants insights to;
 
 2. The percentage of sick leave workers take, the cause/problem if this sick leave is due to the pandemic or a generalized cause which will help them take precautionary measures. This sick leave(SL) percentage AtliQ Hardware understand and Monitor employee wellness.
 Can check it out [Here](https://app.powerbi.com/groups/me/reports/38cd8ef2-88e8-467d-8b09-216cfeb5ffc8/ReportSection)
+
+## 
