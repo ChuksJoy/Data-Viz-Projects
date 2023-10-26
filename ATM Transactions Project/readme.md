@@ -4,7 +4,9 @@ The Power BI report in this repository is a replication of a report that I encou
 - Visualization techniques.
 - Power BI features and functionalities.
 - Report layout and design.
-  
+
+Find The Report [Here](https://drive.google.com/file/d/15DFesDHCm_EgTAY4SjO5mrTZyKJV-Gfi/view?usp=sharing)
+
 ## Project Brief
 ### Introduction
 Wisabi Bank is a leading financial institution in Nigeria, headquartered in Lagos with branches in Kano, Rivers State, Enugu, and FCT Abuja. Wisabi Bank provides a wide range of financial services to its customers, including savings accounts, current accounts, loans, and investments. As part of its commitment to improving customer experience and optimizing its operations, Wisabi Bank has engaged you as an external consultant to conduct a data analytics project to analyse its ATM transactions data.
