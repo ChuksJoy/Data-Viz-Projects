@@ -4,8 +4,7 @@ The Power BI report in this repository is a replication of a report that I encou
 - Visualization techniques.
 - Power BI features and functionalities.
 - Report layout and design.
-
-Find The Report [Here](https://drive.google.com/file/d/15DFesDHCm_EgTAY4SjO5mrTZyKJV-Gfi/view?usp=sharing)
+##### *Find The Report [Here](https://drive.google.com/file/d/15DFesDHCm_EgTAY4SjO5mrTZyKJV-Gfi/view?usp=sharing)*
 
 ## Project Brief
 ### Introduction
